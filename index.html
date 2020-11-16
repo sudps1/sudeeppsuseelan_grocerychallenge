@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Creating a table using javascript and AJAX</title>
+	<style>
+	.wrapper {
+		margin-top: 10%;
+		text-align: center;
+	}
+	.jsTable * {
+		border: 3px solid black;
+		text-align: center;
+		padding: 0;
+	}
+	.jsTable { 
+		width: 95%;
+		margin: 10px auto;
+	}
+	.jsTableHead {
+		font-weight: bold;
+		font-size: 24px;
+		background-color: lightgrey;
+	}
+	.jsTableRowHead {
+		font-size: 18px;
+		background: lightgrey;
+	}
+
+	@media (min-width: 470px) {
+		.jsTable {
+			width: 85%;
+		}
+	}
+
+	@media (min-width: 640px) {
+		.jsTable {
+			width: 65%;
+		}
+	} 
+	body {
+    background-image: url(supermarketcart.jpg);
+     }
+
+	</style>
+</head>
+
+<body>
+
+<div class="wrapper">
+	<button id="button">Create Table!</button>
+</div>
+
+<script src="AJAXTable.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+	"tableHeading"     : "Mum : Go and buy the things from this list..  C'mon Fast..!",
+	"tableCellsPets"   : ["Serial Number", "Name", "Quantity", "Unit","Department","Notes"],
+	"tableCellsPeople" : ["1", "Mango", "1", "K.G","Fruits","Riped Well"],
+	"tableCellsPeople1" : ["2", "Orange", "1", "K.G","Fruits","Big Ones"],
+	"tableCellsPeople2" : ["3", "Grapes", ".5", "K.G","Fruits","Black"],
+	"tableCellsPeople3" : ["4", "Green beans", ".5", "K.G","Vegitables","Fresh"], 
+	"tableCellsPeople4" : ["5", "Cabbage", "2", "K.G","Vegitables","Green"],
+	"tableCellsPeople5" : ["6", "Carrot", "1", "K.G","Vegitables","Medium Size"],
+	"tableCellsPeople6" : ["7", "Beetroot", "2", "K.G","Vegitables","Medium Size"],
+	"tableCellsPeople7" : ["8", "Rice", "5", "K.G","Grocery","Jaya"],
+	"tableCellsPeople8" : ["9", "Wheat flour", "2", "K.G","Grocery","Aashirvaad"],
+ 	"tableCellsPeople9" : ["10", "Salt", "1", "K.G","Grocery","Tata Salt"] 
+	 
+	 
+
+	 
+	  
+	 
+	 
+	 	 
+	 	 
+ 	
+
+}
